@@ -1,7 +1,5 @@
 # Registration Form
 
-![Project Preview](preview.png)
-
 ## Overview
 
 This project is a part of the Responsive Web Design Certification from FreeCodeCamp. It's a simple registration form webpage designed to collect user information.
